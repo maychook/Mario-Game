@@ -60,7 +60,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BG Scripts\ScaleBG.cs" />
+    <Compile Include="Assets\Scripts\Camera Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Collectable Scripts\BonusBlock.cs" />
+    <Compile Include="Assets\Scripts\Controller Scripts\MainMenuController.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\BirdScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Boss Scripts\BossHealthScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Boss Scripts\BossScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\Boss Scripts\StoneScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\EggScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\FrogScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\SnailScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Scripts\SpiderScript.cs" />
+    <Compile Include="Assets\Scripts\Helper Scripts\MyTags.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\FireBullet.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerDamage.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerShoot.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\ScoreScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/maypo/OneDrive/מסמכים/Unity/Unity Course/Awesome Platformer - Mario/MarioGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

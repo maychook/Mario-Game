@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Beetle
+  - Bullet
+  - Snail
+  - Spider
+  - Bird
+  - Water
+  - BonusBox
+  - Coin
+  - Stone
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -13,8 +24,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - groundLayer
+  - playerLayer
   - 
   - 
   - 
@@ -40,4 +51,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 393272327
+    locked: 0
+  - name: Items
+    uniqueID: 585992215
+    locked: 0
+  - name: Colliders
+    uniqueID: 1554928557
+    locked: 0
+  - name: Ground
+    uniqueID: 3294188799
+    locked: 0
+  - name: Player
+    uniqueID: 2995499687
+    locked: 0
+  - name: UI
+    uniqueID: 1544482825
     locked: 0
